@@ -53,3 +53,18 @@
 - ![Alt text](image-63.png)
 - ![Alt text](image-64.png)
 - ![Alt text](image-65.png)
+- ![Alt text](image-66.png)
+- ![Alt text](image-67.png)
+# NumPy Datatypes
+- ![Alt text](image-68.png)
+- ![Alt text](image-69.png)
+- ![Alt text](image-70.png)
+- ![Alt text](image-71.png)
+- ![Alt text](image-72.png)
+- ![Alt text](image-73.png)
+- ![Alt text](image-74.png)
+- Note: ![Alt text](image-75.png)
+- ![Alt text](image-76.png)
+- ![Alt text](image-77.png)
+- ![Alt text](image-78.png)
+- 
