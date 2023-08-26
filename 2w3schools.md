@@ -1,0 +1,34 @@
+# NumPy array reshaping:
+- ![Alt text](image-104.png)
+- ![Alt text](image-105.png)
+- ![Alt text](image-106.png)
+- ![Alt text](image-107.png)
+- ![Alt text](image-108.png)
+- ![Alt text](image-109.png)
+- ![Alt text](image-110.png)
+# Returns copy or view:
+- ![Alt text](image-111.png)
+- ![Alt text](image-112.png)
+# Unknown dimension:
+- ![Alt text](image-113.png)
+- ![Alt text](image-114.png)
+- ![Alt text](image-115.png)
+- Note: We cannot pass -1 to more than one dimension.
+# Flattening the arrays:
+- ![Alt text](image-116.png)
+- ![Alt text](image-117.png)
+# NumPy array iterating:
+- ![Alt text](image-118.png)
+- ![Alt text](image-119.png)
+- ![Alt text](image-120.png)
+- ![Alt text](image-121.png)
+- Note: ![Alt text](image-122.png)
+- ![Alt text](image-123.png)
+- ![Alt text](image-124.png)
+- ![Alt text](image-125.png)
+- ![Alt text](image-126.png)
+- ![Alt text](image-127.png)
+- ![Alt text](image-128.png)
+- ![Alt text](image-129.png)
+- ![Alt text](image-130.png)
+- ![Alt text](image-131.png)
