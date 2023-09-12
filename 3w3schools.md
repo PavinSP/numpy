@@ -1,4 +1,5 @@
 # NumPy Joining Array
+## Note: Axis = 0 : Rows, Axis = 1 : Columns
 ![Alt text](image-141.png)
 ![Alt text](image-142.png)
 ## Note: Double brackets are given.
